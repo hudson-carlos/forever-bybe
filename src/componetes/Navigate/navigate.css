@@ -1,0 +1,12 @@
+nav{
+    background: #F5717F;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav p {
+    color: white;
+    position: relative;
+    top: 25%;
+}

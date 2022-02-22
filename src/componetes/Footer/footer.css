@@ -1,0 +1,83 @@
+.nav{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.p {
+    color: #345C7D;
+    position: relative;
+    top: 25%;
+}
+
+footer {
+    background: #F1F1F1;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-top: 30px solid #F1F1F1;
+}
+
+footer h6 {
+    color: #345C7D;
+    position: relative;
+    top: 25%;
+}
+
+footer div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer div div  img {
+    position: relative;
+    top: 25%;
+    width: 20px;
+    height: 20px;
+}
+
+.icons {
+    width: 224px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.text {
+    background: white;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-top: 30px solid white;
+}
+
+.text2 {
+    width: 1100px;
+}
+
+.text p{
+    color: #AAAAAA;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+.circle {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #F7B094;
+    text-align: center;
+}
+
+.pagamento img{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-bottom: 20px solid #F1F1F1;
+}
